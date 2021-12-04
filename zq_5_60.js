@@ -1,7 +1,6 @@
 /*
-Jxell-qq:15717980
+重写目标    https://kandian.wkandian.com/v17/Ad/getReward.json
 软件名称：中青看点
-赞赏:邀请码57984759
 [rewrite_local]
 */
 
